@@ -1,21 +1,31 @@
-# HackerSkull ☠️
-Hacker Skull Blog
 
-Humanism, Hacks, Buddhism, Stoicism, Roots
-backed by science
+# HS BLOG ☠️
+---
 
-The HackerSkull Manifesto is a guideline to Follow the rules of lifes, Stay on the Right Path, and Lead a prosperous hacker life. 
+## 🧠 HACKER SKULL
 
-THE MANIFEST
+**Humanism, Hacks, Heroes**
+*backed by science*
 
-1. **Follow the Golden Rule of Humanity**  (BE HUMAN)
-   - Forgive allows you to live forward
-   - Defend yourself with compassion
-2. **Stay on the path of Knowledge and Happiness.**  (Listen carefully)
-   - Knowledge with help you learn to be healthy and happy. 
-   - Critical thinking, Scientific Method
-3. **Lead by Example** (DO THE HARDWORK)
-   - Show other people the Path of Humanity. 
-   - Do Share your work to the world
+---
 
+- 📏 **Follow the Golden Rules**
+- 🛣️ **Stay on the Right Paths**
+- 💻 **Lead by example**
 
+---
+
+> "In the interplay of technology and philosophy, find the code to a meaningful life."
+
+---
+
+[Twitter X ](https://twitter.com/13HackerSkull) | [Website](www.hackerSkull.com) | [Github](https://github.com/warteamx/HackerSkull)
+
+___
+
+Reading List: 
+
+ - [ 📖 Lindy Library:  Systems Thinking Lindy Essay (Ai Generated)](./Lindy/systems-thinking.md)
+ - TBD
+
+___
