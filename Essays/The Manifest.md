@@ -18,7 +18,7 @@
 
 ---
 
-[Twitter X ](https://twitter.com/13HackerSkull) | [Website](www.hackerSkull.com) | [Github](https://github.com/warteamx/HackerSkull)
+[Twitter X ](https://twitter.com/13HackerSkull) | [Website](https://www.HackerSkull.com) | [Github](https://github.com/warteamx/HackerSkull)
 
 ___
 
