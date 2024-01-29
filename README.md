@@ -1,12 +1,14 @@
 # ☠️
 
-
+The Manifest:
 
 📏 **Follow the Golden Rule of Humanity**
 
-🛣️ **Stay on the Right Paths of Curiosity, Happiness and Knwoledge**
+🛣️ **Stay on the Right Paths of Curiosity, Happiness and Knowledge**
 
-💻 **Lead by example and share your gifts with the Wolrd**
+💻 **Lead by example and share your gifts with the World**
+
+
 
 
 ---
