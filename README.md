@@ -1,17 +1,17 @@
-# ☠️
+# ☠️ 3 RULES FOR LIFE:
 
-The Manifest:
 
-📏 **Follow the Golden Rule of Humanity**
+### 📏 **Follow the Golden Rules of Humanity**
 
-🛣️ **Stay on the Right Paths of Curiosity, Happiness and Knowledge**
+### 🛣️ **Stay on the paths of Curiosity, Happiness and Knowledge**
 
-💻 **Lead by example and share your gifts with the World**
+### 💻 **Do something to share it with your Community**
 
 
 
 
 ---
 
-[Twitter X ](https://twitter.com/13HackerSkull) | [Website](www.hackerSkull.com) | [Github](https://github.com/warteamx/HackerSkull)
+
+[Twitter X ](https://twitter.com/13HackerSkull) | [Website](https://www.hackerSkull.com) | [Github](https://github.com/warteamx/HackerSkull)
 
