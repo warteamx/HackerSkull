@@ -1,11 +1,12 @@
-# ☠️ 3 RULES FOR LIFE:
+
+# ☠️ LIFE MOTTO ☠️
 
 
-### 📏 **Follow the Golden Rules of Humanity**
+### 📏 **Golden Rules**
 
-### 🛣️ **Stay on the paths of Curiosity, Happiness and Knowledge**
+### 🛣️ **Knowledge**
 
-### 💻 **Do something to share it with your Community**
+### 💻 **Community**
 
 
 
@@ -13,5 +14,8 @@
 ---
 
 
-[Twitter X ](https://twitter.com/13HackerSkull) | [Website](https://www.hackerSkull.com) | [Github](https://github.com/warteamx/HackerSkull)
+[Twitter X ](https://twitter.com/HackerSkullX) | [Website](https://www.hackerSkull.com) | [Github](https://github.com/warteamx/HackerSkull)
 
+___
+
+![Local Image](./media/skull-crossbones.webp "Skull and Crossbones")
