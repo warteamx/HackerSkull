@@ -13,6 +13,6 @@ ___
 ---
 
 
-[ ☠️ **LOG** ☠️ ](/log/daily.md)
+[ ☠️ **MANIFEST** ☠️ ](/Essays/The.md)
 
 ___
