@@ -1,21 +1,11 @@
 
-# ☠️ LIFE MOTTO ☠️
+#  ☠️   ☠️   ☠️
 
-
-### 📏 **Golden Rules**
-
-### 🛣️ **Knowledge**
-
-### 💻 **Community**
-
-
+![Local Image](./media/hackerskull.webp "Skull and Crossbones")
 
 
 ---
-
-
-[Twitter X ](https://twitter.com/HackerSkullX) | [Website](https://www.hackerSkull.com) | [Github](https://github.com/warteamx/HackerSkull)
+[ ☠️ **MANIFESTO** ☠️ ](/essays/manifest.md)
 
 ___
-
-![Local Image](./media/skull-crossbones.webp "Skull and Crossbones")
+[**X**](https://twitter.com/HackerSkullX)
