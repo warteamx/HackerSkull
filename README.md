@@ -5,14 +5,7 @@
 
 
 ---
-
-
-[ ☠️ **X** ☠️ ](https://twitter.com/HackerSkullX)
+[ ☠️ **MANIFESTO** ☠️ ](/essays/manifest.md)
 
 ___
----
-
-
-[ ☠️ **MANIFEST** ☠️ ](/Essays/The.md)
-
-___
+[**X**](https://twitter.com/HackerSkullX)
