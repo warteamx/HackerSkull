@@ -13,3 +13,5 @@
 
 ___
 [**X**](https://twitter.com/HackerSkullX)
+
+PSYCHOTECH CONTENT FOR DEVELOPERS
