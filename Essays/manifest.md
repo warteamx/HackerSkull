@@ -21,3 +21,6 @@ In the digital expanse, HackerSkull stands as guardians of balance, harmony, and
 
 **Epilogue:**
 This manifesto is our map through the digital and the tangible, a pledge to live with purpose, lead with courage, and learn with fervor. Together, under the HackerSkull flag, we journey toward a horizon where technology amplifies our humanity, and our curiosity unveils the universe.
+
+
+[**FAQ**](/lindy/life.md)
