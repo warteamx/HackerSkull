@@ -1,4 +1,9 @@
 # Logs
+## 27/09/2024
+- HackerSkull Lab: Coding diary .
+- HackerSkull.com vs Personal Brand.
+- 🚧 Deciding if keep alive all domains, or focus only in one or 2.
+- HackerSkull Objective? 3DLAB. OpenSource. 
 ## 24/9/2024
 - Add Objective. PsychoTech content for Developers. The idea is to create content related to Technology, Psychology, in a Matrix Theme.
 - Todo: Define Brand Personality,and guidelines. 
