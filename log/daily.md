@@ -1,4 +1,6 @@
 # Logs
+## 8/10/2024
+- add aigen.md file "Basics of Artificial Intelligence "
 ## 1/10/2024
 - change source repo to martinrebo?. Public profile.
 - pros: congruence
