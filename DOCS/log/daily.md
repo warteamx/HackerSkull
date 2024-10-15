@@ -1,4 +1,9 @@
 # Logs
+## 15/10/2024
+- Update Objective: Focus AI - 3D + pyton + c#
+- Reorganize Folders
+- Deploy first AI app. 
+  
 ## 8/10/2024
 - add aigen.md file "Basics of Artificial Intelligence "
 ## 1/10/2024
